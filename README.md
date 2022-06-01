@@ -3,6 +3,6 @@
  
  An AI powered chatbot for business solutions and to be your personal assistant
  
- ![cassie](C:\Users\Jenipher\OneDrive\Documents\GitHub\portfolio web1\portfolio-web1\images\bot.jpg)
+ ![cassie](https://www.comm100.com/wp-content/uploads/images/blog-banner-ai-powered-chatbot-1.png)
  
  
